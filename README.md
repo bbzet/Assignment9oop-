@@ -51,19 +51,20 @@ Assignment9oop-/│
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Assignment9oop-.git
+   git clone https://github.com/bbzet/Assignment9oop-.git
    cd Assignment9oop-```
 Run the script: 
 
-```python main.py
-Output will display:```
-
+python main.py
+Output will display:         
+```
 Shape name
 
 Dimensions
 
 Surface area
-
+```
+```
 Volume
 
 🧪 Sample Output```
@@ -75,12 +76,12 @@ Volume: 603.19
 Shape: Cube
 Side Length: 6
 Surface Area: 216.00
-Volume: 216.00```
-...
+Volume: 216.00
+```
 📸 Screenshots
 Output Table
 
 Test Output
-
+![](https://raw.githubusercontent.com/bbzet/Assignment9oop-/refs/heads/main/img.png)
 ✅ Requirements
 Python 3.7 or above
