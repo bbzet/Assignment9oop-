@@ -81,7 +81,7 @@ Volume: 216.00
 📸 Screenshots
 Output Table
 
-Test Output
 ![](https://raw.githubusercontent.com/bbzet/Assignment9oop-/refs/heads/main/img.png)
+
 ✅ Requirements
 Python 3.7 or above
