@@ -51,7 +51,7 @@ Assignment9oop-/│
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bbzet/Assignment9oop-.git
+   git clone https://github.com/bbzet/Assignment9oop.git
    cd Assignment9oop-```
 Run the script: 
 
